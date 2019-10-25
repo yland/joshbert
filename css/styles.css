@@ -2,9 +2,8 @@
   display: block;
   margin-top: 0;
 }
-
 .jumbotron {
-  background: url("../images/banner.png") no-repeat center; 
+  background: url("../images/homeimg.jpeg") no-repeat center; 
   background-size: cover;
-  height: 500px;
+  height: 700px;
 }
