@@ -7,3 +7,6 @@
   background-size: cover;
   height: 700px;
 }
+.card-deck {
+  margin-bottom: 30px;
+}
