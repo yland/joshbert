@@ -7,6 +7,15 @@
   background-size: cover;
   height: 700px;
 }
+.section {
+  padding-bottom: 50px;
+}
 .card-deck {
   margin-bottom: 30px;
+}
+footer{
+  background-color: rgb(243, 234, 234);
+  color: rgb(102, 100, 100);
+  font-family: Arial, Helvetica, sans-serif;
+  
 }
