@@ -1,4 +1,14 @@
 .jumbotron {
     background: url("../images/contact.jpg") no-repeat center; 
     background-size: cover;
-  }
+ }
+ .container{
+   align-content: center;
+ } 
+.slider-text {
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lato,' 'sans-serif';
+    position: relative;
+    margin-top: 30px;
+
+}
