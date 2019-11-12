@@ -10,5 +10,12 @@
     font-family: 'Lucida Sans', 'Lato,' 'sans-serif';
     position: relative;
     padding-top: 30px;
-
 }
+.row{
+    display: inline-flex;
+}
+.follow-us{
+    text-align: center;
+}
+.social{}
+    
