@@ -1,21 +1,52 @@
 .jumbotron {
-    background: url("../images/contact.jpg") no-repeat center; 
-    background-size: cover;
+    background-size: contain;
+    margin-bottom: 20px;
  }
  .container{
    align-content: center;
  } 
-.slider-text {
-    color: #fff;
-    font-family: 'Lucida Sans', 'Lato,' 'sans-serif';
-    position: relative;
-    padding-top: 30px;
-}
+
 .row{
     display: inline-flex;
+}
+h1{
+    color: rgba(66, 62, 54, 0.911);
+    
 }
 .follow-us{
     text-align: center;
 }
-.social{}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .social li{
+      margin-right: 30px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+  }
+  ul{
+    list-style-type: none;
+    margin-bottom: 0px;
+  }
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    color: #3B5998;
+    
+  }
+  /* Instagram */
+  .fa-instagram {
+    color: #aa553b;
+    
+  }
+  /* Twitter */
+  .fa-twitter {
+    color: #55ACEE;
+  }
     
