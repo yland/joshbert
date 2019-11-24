@@ -24,13 +24,24 @@ body{
 .women-gallery{
   background-color: rgb(248, 242, 248);
 }
+/*! All content */
 .content{
   margin-bottom: 5px;
 }
+.content-kids, .content-women, .content-men{
+  margin-top: 90px;
+}
+
+/*! All card decks */
 .card-deck {
   margin-bottom: 30px;
   padding-bottom: 90px;
 }
+/*! card decks for women, men, kids .html pages */
+.kid, .women, .men{ 
+  padding-bottom: 40px;
+}
+/*! footer styling */
 footer{
   background-color: rgb(248, 242, 248);
   color: rgb(172, 166, 166);
