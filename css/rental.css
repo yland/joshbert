@@ -1,0 +1,29 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+  min-height: 80px;
+}
+.navbar-brand{
+  margin-bottom: 10px;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;  
+  background-color: rgba(226, 223, 190, 0.76);
+}
+
+.jumbotron {
+  background: url("../images/rental.png") no-repeat center; 
+  background-size: cover;
+  height: 400px;
+  align-content: center;
+  margin-top: 50px;
+  
+}
+.display-4{
+   color: rgb(95, 91, 91);
+   margin-top: 100px;
+   
+   text-align: center; 
+}
