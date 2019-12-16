@@ -10,9 +10,7 @@ body{
 .dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0;  
-  background-color: rgba(226, 223, 190, 0.76);
 }
-
 .jumbotron {
   background: url("../images/homeimg.jpeg") no-repeat center; 
   background-size: cover;
