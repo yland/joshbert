@@ -11,6 +11,12 @@ body{
   display: block;
   margin-top: 0;  
 }
+.dropdown-menu a:hover
+{
+  color: #fff;
+  background-color: #585307;
+  border-color: #fff;
+}
 .jumbotron {
   background: url("../images/homeimg.jpeg") no-repeat center; 
   background-size: cover;
@@ -46,6 +52,7 @@ body{
 .kid, .women, .men{ 
   padding-bottom: 40px;
 }
+
 /*! footer styling */
 footer{
   background-color: rgb(248, 242, 248);
