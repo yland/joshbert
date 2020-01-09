@@ -2,32 +2,33 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 .navbar{
-  min-height: 80px;
+  min-height: 80px;  
+}
+.navbar-collapse{
+  justify-content: center;
+  font-weight: bold;
 }
 .navbar-brand{
   margin-bottom: 10px;
 }
+.navlist:hover, .dropdown-menu{
+  background-color: whitesmoke;
+  border: none;
+}
+
 .dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0;  
 }
-.dropdown-menu a:hover
-{
+.dropdown-menu a:hover{
   color: #fff;
   background-color: #585307;
   border-color: #fff;
 }
-.megamenu {
-  position: static;
-}
 
-.megamenu .dropdown-menu {
-  background: none;
-  border: none;
-  width: 70%;
-  margin-left: 250px;
+.megamenu{
+  min-width: 600px; 
 }
-
 .jumbotron {
   background: url("../images/rental.jpg") no-repeat center; 
   background-size: cover;

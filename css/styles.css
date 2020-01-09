@@ -4,8 +4,16 @@ body{
 .navbar{
   min-height: 80px;
 }
+.navbar-collapse{
+  justify-content: center;
+  font-weight: bold;
+}
 .navbar-brand{
   margin-bottom: 10px;
+}
+.navlist:hover, .dropdown-menu{
+  background-color: whitesmoke;
+  border: none;
 }
 .dropdown:hover .dropdown-menu {
   display: block;
@@ -16,6 +24,9 @@ body{
   color: #fff;
   background-color: #585307;
   border-color: #fff;
+}
+.megamenu{
+  min-width: 600px; 
 }
 .jumbotron {
   background: url("../images/homeimg.jpeg") no-repeat center; 
