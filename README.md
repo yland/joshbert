@@ -1,4 +1,4 @@
 # joshbert
 Joshbert is a business website to showcase a variety of fashion clothing items for sale.
 
-![ScreenShot](https://github.com/yland/joshbert/blob/master/sreenshots/joshbert-home.png)
+<img src="https://your-image-url.type" width="100" height="100">
