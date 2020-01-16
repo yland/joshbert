@@ -21,8 +21,7 @@ body{
   margin-top: 0;  
 }
 .dropdown-menu a:hover{
-  color: #fff;
-  background-color: #585307;
+  background-color: rgb(238, 229, 229);
   border-color: #fff;
 }
 
@@ -40,7 +39,6 @@ body{
 .display-4{
    color: rgb(95, 91, 91);
    margin-top: 100px;
-   
    text-align: center; 
 }
 
